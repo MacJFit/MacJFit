@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on anything
-- 📫 How to reach me DM
+- 📫 How to reach me mac.jablonski@hotmail.com
 
 <!---
 MacJFit/MacJFit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
